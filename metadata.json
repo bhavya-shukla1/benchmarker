@@ -1,0 +1,6 @@
+{
+  "name": "Competitive Analysis Engine",
+  "description": "An AI-powered competitive analysis tool leveraging real-time search data to track metrics, startup stages, USPs, Moats, and visual comparisons of companies and competitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
